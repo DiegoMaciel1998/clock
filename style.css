@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #0fc2aa;
+}
+
+#container {
+    border: 2px solid #000;
+    width: 850px;
+    height: 250px;;
+    margin: 145px auto;
+    font-size: 30pt;
+    text-align: center;
+    color: #009999;
+    
+}
+
+#date {
+    background: #071b1b;     
+    width: 850px;
+    height: 125px;
+    border-bottom: 2px solid #000;
+    display: block;
+    
+}
+
+#time {
+    background-color: #071b1b;
+    width:  850px;
+    height: 125px;
+    display: block;
+}
+
